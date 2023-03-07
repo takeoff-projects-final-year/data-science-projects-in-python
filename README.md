@@ -1,4 +1,5 @@
 # data-science-projects-in-python
+
 Data science is a multidisciplinary field that involves the use of statistical and computational methods to extract insights and knowledge from data. Data scientists collect, process, and analyze data from various sources, including structured and unstructured data, to uncover patterns, trends, and relationships. The insights and knowledge obtained from data can be used to inform decision-making, optimize processes, and create new products and services.
 
 Data science involves a range of techniques and tools, including machine learning, data visualization, statistical analysis, and programming languages such as Python and R. The field is used in a variety of industries, such as healthcare, finance, and technology, to solve complex problems and improve business outcomes.
@@ -6,6 +7,7 @@ Data science involves a range of techniques and tools, including machine learnin
 ![image](https://user-images.githubusercontent.com/122364815/223347613-5cbde1f2-814b-4b91-98ad-4de6a79aecb0.png)
 
 Why it’s Important???
+
 Data science is important because it allows us to extract insights and knowledge from large and complex datasets that would be difficult or impossible to analyze with traditional methods. Here are some benefits of data science:
 
 •	Improved decision-making: Data science helps organizations make better decisions by providing accurate and timely insights. Data-driven decision-making ensures that businesses can make informed choices that can increase efficiency, reduce costs, and improve profitability.
@@ -20,6 +22,7 @@ Data science is important because it allows us to extract insights and knowledge
 
 
 Here are some data science project ideas for final year students in Python:
+
 •	Predicting the stock market using machine learning algorithms
 
 •	Sentiment analysis on Twitter data to predict election outcomes
